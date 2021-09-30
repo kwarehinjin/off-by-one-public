@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Off By One</title>
     <link>https://off-by-one.blog/categories/</link>
     <description>Recent content in Categories on Off By One</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://off-by-one.blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://off-by-one.blog/posts/my-first-post/</link>
-      <pubDate>Thu, 30 Sep 2021 13:39:01 +1300</pubDate>
-      
-      <guid>https://off-by-one.blog/posts/my-first-post/</guid>
-      <description>This is my 11th &amp;lsquo;first&amp;rsquo; post.
-Getting older now.</description>
-    </item>
-    
-    
+    <language>en-NZ</language><atom:link href="https://off-by-one.blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

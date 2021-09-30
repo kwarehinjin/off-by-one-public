@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://off-by-one.blog/posts/my-first-post/</loc>
+    <loc>https://off-by-one.blog/about/</loc>
+    <lastmod>2021-09-30T13:57:09+13:00</lastmod>
+  </url><url>
+    <loc>https://off-by-one.blog/my-first-post/</loc>
     <lastmod>2021-09-30T13:39:01+13:00</lastmod>
   </url><url>
     <loc>https://off-by-one.blog/</loc>
