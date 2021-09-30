@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Off By One</title>
+    <link>https://off-by-one.blog/</link>
+    <description>Recent content on Off By One</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Sep 2021 13:39:01 +1300</lastBuildDate>
+    
+	<atom:link href="https://off-by-one.blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://off-by-one.blog/posts/my-first-post/</link>
+      <pubDate>Thu, 30 Sep 2021 13:39:01 +1300</pubDate>
+      
+      <guid>https://off-by-one.blog/posts/my-first-post/</guid>
+      <description>This is my 11th &amp;lsquo;first&amp;rsquo; post.
+Getting older now.</description>
+    </item>
+    
+    
   </channel>
 </rss>
